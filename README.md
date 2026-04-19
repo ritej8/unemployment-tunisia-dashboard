@@ -1,6 +1,6 @@
-# 📊 Tunisia Unemployment Analysis Dashboard
+# Tunisia Unemployment Analysis Dashboard
 
-## 🎯 Project Overview
+##  Project Overview
 This project analyzes unemployment trends in Tunisia using World Bank data.  
 It aims to uncover long-term labor market patterns, with a focus on:
 
@@ -12,7 +12,7 @@ The goal is to transform raw economic data into **clear, interactive insights** 
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 Tunisia faces persistent unemployment challenges, especially among young people and women.  
 This project investigates:
 
@@ -22,8 +22,8 @@ This project investigates:
 
 ---
 
-## 🛠️ Tools & Technologies
-- Python 🐍
+##  Tools & Technologies
+- Python
 - Pandas
 - Plotly
 - Streamlit
@@ -39,7 +39,7 @@ This project investigates:
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 - Interactive filtering by year range
 - KPI summary cards
@@ -50,7 +50,7 @@ This project investigates:
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 
 ![alt text](image-1.png)
@@ -59,12 +59,12 @@ This project investigates:
 ![alt text](image-3.png)
 
 
-## 🚀 Live Demo
-👉 [https://your-streamlit-app-link.streamlit.app](https://unemployment-tunisia-dashboard-f4jzfkohdmlwugeg4s2kof.streamlit.app/)
+##  Live Demo
+👉 [https://link.streamlit.app](https://unemployment-tunisia-dashboard-f4jzfkohdmlwugeg4s2kof.streamlit.app/)
 
 ---
 
-## ▶️ How to Run Locally
+##  How to Run Locally
 
 ```bash
 pip install -r requirements.txt
