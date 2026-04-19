@@ -1,79 +1,75 @@
 # 📊 Tunisia Unemployment Analysis Dashboard
 
-##  Project Overview
+## 🎯 Project Overview
+This project analyzes unemployment trends in Tunisia using World Bank data.  
+It aims to uncover long-term labor market patterns, with a focus on:
 
-This project analyzes unemployment trends in Tunisia using World Bank data.
-It explores key dimensions such as time evolution, gender disparities, and youth unemployment through an interactive dashboard.
+- Youth unemployment
+- Gender disparities
+- Overall unemployment evolution
 
----
-
-##  Objectives
-
-* Analyze unemployment trends over time
-* Compare male and female unemployment
-* Highlight youth unemployment challenges
-* Extract actionable insights from real-world data
+The goal is to transform raw economic data into **clear, interactive insights** that support data-driven understanding of Tunisia’s labor market.
 
 ---
 
-## Tools & Technologies
+## 📌 Problem Statement
+Tunisia faces persistent unemployment challenges, especially among young people and women.  
+This project investigates:
 
-* Python
-* Pandas
-* Plotly
-* Streamlit
-
----
-
-## 📂 Dataset
-
-Source: World Bank Open Data
-The dataset includes:
-
-* Total unemployment rate
-* Male unemployment
-* Female unemployment
-* Youth unemployment
+- Is unemployment increasing or stable over time?
+- Are there structural inequalities between men and women?
+- Why is youth unemployment significantly higher?
 
 ---
 
-##  Key Insights
-
-* Unemployment shows long-term fluctuations with periods of increase
-* Youth unemployment is significantly higher than the national average
-* Gender disparities exist in the labor market
-* Structural challenges affect employment in Tunisia
-
----
-
-##  Dashboard Features
-
-* Interactive filters (year range)
-* KPI indicators
-* Trend visualizations
-* Gender and youth analysis
-* Dynamic insights based on data
+## 🛠️ Tools & Technologies
+- Python 🐍
+- Pandas
+- Plotly
+- Streamlit
 
 ---
 
-##  How to Run the Project
+## 📊 Key Insights
 
-```bash
-pip install -r requirements.txt
-streamlit run app/streamlit_app.py
-```
+- 📈 Unemployment shows long-term fluctuations with periods of increase linked to economic conditions  
+- 🎓 Youth unemployment is consistently significantly higher than total unemployment  
+- 👥 Female unemployment is generally higher than male unemployment  
+- ⚖️ The gap between youth and total unemployment indicates structural labor market issues  
 
 ---
 
-##  Screenshots
+## 📊 Dashboard Features
+
+- Interactive filtering by year range
+- KPI summary cards
+- Time-series visualizations
+- Gender comparison analysis
+- Youth unemployment analysis
+- Dynamic computed insights
+
+---
+
+## 📸 Dashboard Preview
+
 
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 
+
+## 🚀 Live Demo
+👉 [https://your-streamlit-app-link.streamlit.app](https://unemployment-tunisia-dashboard-f4jzfkohdmlwugeg4s2kof.streamlit.app/)
+
 ---
 
-##  Author
+## ▶️ How to Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app/streamlit_app.py
+
+
 
 ritej – Data Analyst Portfolio Project
